@@ -296,7 +296,7 @@ FACEBOOK  : Bangladesh Cyber 2.0
 """)
   os.system("xdg-open https://www.facebook.com/ahm.habib.39")
   sys.exit()
-baner= os.system("figlet -f slant EMON")
+baner= os.system("figlet -f slant BC-2.0")
 baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
