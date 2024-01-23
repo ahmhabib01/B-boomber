@@ -32,7 +32,7 @@ def primiam():
                                        
 ××××××××××××××××××××××××××××××××××××××××××××
 DEVELOPER :Ahsan Habib 
-GITHUB    : ahmhabib
+GITHUB    : ahmhabib01
 VERSION   : 1.0
 PROJECT   : SMS BOMBER 
 FACEBOOK  : Bangladesh Cyber 2.0
@@ -296,14 +296,21 @@ FACEBOOK  : Bangladesh Cyber 2.0
 """)
   os.system("xdg-open https://www.facebook.com/ahm.habib.39")
   sys.exit()
-baner= os.system("figlet -f slant BC-2.0")
-baner = str(baner)
-baner = baner.replace("0","")
-logo=f""" {baner} \033[1;37m
+
+
+logo=f"""  \033[1;37m
+
+██████╗░░█████╗░░░░░░░██████╗░░░░░█████╗░
+██╔══██╗██╔══██╗░░░░░░╚════██╗░░░██╔══██╗
+██████╦╝██║░░╚═╝█████╗░░███╔═╝░░░██║░░██║
+██╔══██╗██║░░██╗╚════╝██╔══╝░░░░░██║░░██║
+██████╦╝╚█████╔╝░░░░░░███████╗██╗╚█████╔╝
+╚═════╝░░╚════╝░░░░░░░╚══════╝╚═╝░╚════╝░                                    
+                                       
 ××××××××××××××××××××××××××××××××××××××××××××
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ DEVELOPER :Ahsan Habib 
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ GITHUB    : ahmhabib
-\033[1;37m❲\033[38;5;46m+\033[1;37m❳ VERSION   : 2.0
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ GITHUB    : ahmhabib01
+\033[1;37m❲\033[38;5;46m+\033[1;37m❳ VERSION   : 1.0
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ PROJECT   : SMS BOMBING 
 \033[1;37m❲\033[38;5;46m+\033[1;37m❳ FACEBOOK  : Bangladesh Cyber 2.0 
 ××××××××××××××××××××××××××××××××××××××××××××"""
